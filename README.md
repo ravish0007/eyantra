@@ -9,4 +9,4 @@
 ''''''''''''''''''''''  Arena visualization to my perspective '''''''''''''''''''''''''
 ---------------------------------------------------------------------------------------
 
-![Arena_image](https://github.com/ravish0007/eyantra/arena_vis.jpg?raw=true "Title")
+![Arena_image](https://github.com/ravish0007/eyantra/blob/master/arena_vis.png )
