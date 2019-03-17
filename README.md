@@ -20,9 +20,12 @@
 
 <br>
 <br>
+
 ---------------------------------------------------------------------------------------
-''''''''''''''''''''''           Input Image                  '''''''''''''''''''''''''
+''''''''''''''''''''''             Input Image                '''''''''''''''''''''''''
 ---------------------------------------------------------------------------------------
+
+
 
 ![input_image](https://github.com/ravish0007/eyantra/blob/master/Original.png )
 
@@ -46,4 +49,5 @@ l) lastdealer.c  <br>
 m) trial.c   <br>
 
 P.S :- Images were classified by ResNet18 CNN architecture(transfered), thanks to @Pytorch, @GoogleCollab
-for further more ping me here @ <email> 4al16cs077@aiet.org.in</email>
+<br><br>
+For further more ping me here @ <email> 4al16cs077@aiet.org.in</email>
