@@ -31,7 +31,7 @@
 
 * work_flow
 1) eyanfst.py ( first thing of the whole piece)<br>
-2) Python ( For establishing logic )<br>
+2) Python ( For establishing logic, processing, computation and serial communication)<br>
 3) C_robot<br>
 <br>
 a) alphaloc.c <br>
